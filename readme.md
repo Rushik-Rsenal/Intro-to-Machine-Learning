@@ -5,6 +5,9 @@ This project intends to show the capabilities of machine learning using the K Ne
 1. Download `iris_classifer.ipynb` file.
 2. Install the scikit-learn library using `pip install -U scikit-learn`
 3. Run the cells
+4. Go to the section with the title: "Classify flowers using their Measurements"
+5. Classify Mystery Flower 1, Mystery Flower 2 and Mystery Flower 3 using KNN model :)
+6. Check if the model classifies the Flowers correctly by double-clicing on the images and seeing the image names. 
 
 ## To start with Pokemon Classifier:
 ## Function
