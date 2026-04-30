@@ -1,5 +1,5 @@
 ## Aim
-This project intends to show the capabilities of machine learning using the K Nearest Neighbor Classification Model on Iris Dataset.
+This project intends to show the capabilities of machine learning using the K Nearest Neighbor Classification Model on Iris Dataset. The slides are located in the file 'ML workshop.pdf'. They authors of the slides are: Joe, Shreya and Rushik, Lily and Minjun of UNSW DataSoc.
 
 ## To start with Iris Classifier:
 1. Download `iris_classifer.ipynb` file.
